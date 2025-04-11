@@ -1,27 +1,16 @@
-# Hi there, I'm Shahryar 👋
+# Hi 👋, I'm Shahryar  
+A Junior Web Developer passionate about building modern web applications
 
-💻 I'm a Junior Software Engineer | .
+🌍 From: Pakistan  
+💻 Tech Stack:  
+- 🧠 React JS (Frontend)  
+- 🛠 ASP.NET MVC & ASP.NET Core Web API (Backend)  
+- 🎨 HTML | CSS | Bootstrap | Tailwind CSS  
+- ⚙️ JavaScript  
 
-🔭 I’m currently working on:
-- A travel agency website with React
-- Learning backend development with ASP.NET
+🌱 Currently exploring more advanced topics in .NET and modern frontend tools  
+🎯 Looking to grow as a Full Stack Developer  
+💬 Ask me about anything related to React or ASP.NET  
+📫 Reach me at: shahryar.dev@gmail.com *(or your real email)*  
 
-🌱 I’m currently learning:
-- React Hooks
-- Material UI & Framer Motion
-- ASP.NET and .NET Framework
-
-💬 Ask me about:
-- React JS
-- Responsive design
-- Creating reusable components
-
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Portfolio](https://yourportfolio.com)
-
-⚡ Fun fact:
-I love building UI components and watching them come to life on screen!
-
----
-
+🚀 Always learning. Always building.
