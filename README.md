@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Shahryar 👋
 
-<!--
-**Shahryar70/Shahryar70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Frontend Developer passionate about building beautiful, responsive web apps.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- A travel agency website with React
+- Learning backend development with ASP.NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- React Hooks
+- Material UI & Framer Motion
+- ASP.NET and .NET Framework
+
+💬 Ask me about:
+- React JS
+- Responsive design
+- Creating reusable components
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Portfolio](https://yourportfolio.com)
+
+⚡ Fun fact:
+I love building UI components and watching them come to life on screen!
+
+---
+
