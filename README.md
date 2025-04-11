@@ -1,4 +1,5 @@
 # Hi 👋, I'm Shahryar  
+![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&color=blue)
 A Junior Web Developer passionate about building modern web applications
 
 🌍 From: Pakistan  
@@ -14,4 +15,4 @@ A Junior Web Developer passionate about building modern web applications
 📫 Reach me at: mshahryar408@gmail.com 
 
 🚀 Always learning. Always building.
-![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&color=blue)
+
