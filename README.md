@@ -2,9 +2,6 @@
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar70&show_icons=true&theme=default)
-
-
 
 A Junior Web Developer passionate about building modern web applications
 
@@ -21,4 +18,6 @@ A Junior Web Developer passionate about building modern web applications
 📫 Reach me at: mshahryar408@gmail.com 
 
 🚀 Always learning. Always building.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar70&show_icons=true&theme=default)
 
