@@ -49,4 +49,7 @@ A Junior Web Developer passionate about building modern web applications
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahryar70&theme=default&hide_border=false)
 
+## 📘 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar70&layout=compact&theme=default)
 
