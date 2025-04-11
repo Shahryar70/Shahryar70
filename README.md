@@ -1,6 +1,6 @@
 # Hi there, I'm Shahryar 👋
 
-💻 I'm a Frontend Developer passionate about building beautiful, responsive web apps.
+💻 I'm a Junior Software Engineer | .
 
 🔭 I’m currently working on:
 - A travel agency website with React
