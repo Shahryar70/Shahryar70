@@ -11,6 +11,6 @@ A Junior Web Developer passionate about building modern web applications
 🌱 Currently exploring more advanced topics in .NET and modern frontend tools  
 🎯 Looking to grow as a Full Stack Developer  
 💬 Ask me about anything related to React or ASP.NET  
-📫 Reach me at: shahryar.dev@gmail.com *(or your real email)*  
+📫 Reach me at: mshahryar408@gmail.com 
 
 🚀 Always learning. Always building.
