@@ -18,6 +18,11 @@ A Junior Web Developer passionate about building modern web applications
 
 🚀 Always learning. Always building.
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahryar70&theme=default&hide_border=false)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar70&show_icons=true&theme=default)
 
 ## 🛠 Languages and Tools
