@@ -18,11 +18,6 @@ A Junior Web Developer passionate about building modern web applications
 
 🚀 Always learning. Always building.
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahryar70&theme=default&hide_border=false)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar70&show_icons=true&theme=default)
 
 ## 🛠 Languages and Tools
@@ -44,5 +39,9 @@ A Junior Web Developer passionate about building modern web applications
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahryar70&theme=default&hide_border=false)
 
 
