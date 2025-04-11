@@ -1,6 +1,4 @@
 # Hi 👋, I'm Shahryar  
-## 📊 GitHub Stats
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
 
 A Junior Web Developer passionate about building modern web applications
