@@ -18,8 +18,6 @@ A Junior Web Developer passionate about building modern web applications
 
 🚀 Always learning. Always building.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar70&show_icons=true&theme=default)
-
 ## 🛠 Languages and Tools
 
 <!-- Languages -->
@@ -45,6 +43,7 @@ A Junior Web Developer passionate about building modern web applications
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar70&show_icons=true&theme=default)
 
 ## 🔥 Streak Stats
 
