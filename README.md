@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shahryar 👋</h1>
 
-<p align="center">Junior Software Engineer</p> 
+<p align="center" style="font-size:25px;">Junior Software Engineer</p> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
 
