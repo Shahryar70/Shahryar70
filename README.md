@@ -1,8 +1,8 @@
-<div align="center">
-# Hi there, I'm Shahryar 👋
+<h1 align="center">Hi there, I'm Shahryar 👋</h1>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
-</div>
+
 A Junior Web Developer passionate about building modern web applications
 
 🌍 From: Pakistan  
