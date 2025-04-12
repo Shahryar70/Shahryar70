@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there, I'm Shahryar 👋</h1>
 
-<p align="center"><strong>Junior Software Engineer</strong></p>
+<h3 align="center"><strong>Junior Software Engineer</strong></h3>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
 </div>
