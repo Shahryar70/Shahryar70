@@ -1,9 +1,10 @@
+<div align="center">
 <h1 align="center">Hi there, I'm Shahryar 👋</h1>
 
 <p align="center"><strong>Junior Software Engineer</strong></p>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
-
+</div>
 
 A Junior Web Developer passionate about building modern web applications
 
