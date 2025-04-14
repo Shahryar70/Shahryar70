@@ -13,7 +13,7 @@ A Junior Web Developer passionate about building modern web applications
 - 🧠 React JS (Frontend)  
 - 🛠 ASP.NET MVC & ASP.NET Core Web API (Backend)  
 - 🎨 HTML | CSS | Bootstrap | Tailwind CSS  
-- ⚙️ JavaScript  
+- ⚙️ JavaScript, C#
 
 🌱 Currently exploring more advanced topics in .NET and modern frontend tools  
 🎯 Looking to grow as a Full Stack Developer  
