@@ -10,8 +10,8 @@ A Junior Web Developer passionate about building modern web applications
 
 🌍 From: Pakistan  
 💻 Tech Stack:  
-- 🧠 React JS (Frontend)  
-- 🛠 ASP.NET MVC & ASP.NET Core Web API (Backend)  
+- 🧠 React JS 
+- 🛠 ASP.NET MVC & ASP.NET Core Web API 
 - 🎨 HTML | CSS | Bootstrap | Tailwind CSS  | Shadcn UI
 - ⚙️ JavaScript, C#
 
