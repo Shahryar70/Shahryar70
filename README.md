@@ -15,7 +15,6 @@ A Junior Web Developer passionate about building modern web applications
 - 🎨 HTML | CSS | Bootstrap | Tailwind CSS | Shadcn UI
 - ⚙️ JavaScript, C#
 
-🌱 Currently exploring more advanced topics in .NET and modern frontend tools  
 🎯 Looking to grow as a Full Stack Developer  
 💬 Ask me about anything related to React or ASP.NET  
 📫 Reach me at: mshahryar408@gmail.com 
