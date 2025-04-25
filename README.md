@@ -6,7 +6,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
 </div>
 
-A Junior Web Developer passionate about building modern web applications.
+A Junior Web Developer passionate about building modern web applications
 
 🌍 From: Pakistan  
 💻 Tech Stack:  
