@@ -12,7 +12,7 @@ A Junior Web Developer passionate about building modern web applications
 💻 Tech Stack:  
 - 🧠 React JS 
 - 🛠 ASP.NET MVC & ASP.NET Core Web API 
-- 🎨 HTML | CSS | Bootstrap | Tailwind CSS | Shadcn UI
+- 🎨 HTML | CSS | Bootstrap | Tailwind CSS | Material UI
 - ⚙️ JavaScript, C#
 
 🎯 Looking to grow as a Full Stack Developer  
