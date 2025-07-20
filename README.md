@@ -3,7 +3,7 @@
 
 <h3 align="center"><strong>Junior Software Engineer</strong></h3>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Shahryar70&style=flat-square&color=blue)
 </div>
 
 A Junior Web Developer passionate about building modern web applications
